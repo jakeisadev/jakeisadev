@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jakeisadev
 - 👀 I’m interested in ... Learning how to become an excellent Software Developer! (Also longboarding and spending time with people who matter to me.)
-- 🌱 I’m currently learning ... Javascript, React.js, jquery, and Postgre SQL
+- 🌱 I’m currently learning ... Javascript
 - 💞️ I’m looking to collaborate on ... Website projets!
 - 📫 How to reach me ... starowicz@protonmail.com
 
