@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jakeisadev
-- 👀 I’m interested in ... Learning how to become a professional Software Developer! (Also longboarding and spending time with people who matter to me.)
+- 👀 I’m interested in ... Front End Technologies and frameworks, and recently taking interest in mySQL
 - 🌱 I’m currently learning ... React.js
 - 💞️ I’m looking to collaborate on ... Website projets!
 - 📫 How to reach me ... starowicz@protonmail.com
