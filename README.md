@@ -10,10 +10,6 @@
 
 :earth_asia: I love traveling too. I moved to NC solo immediately after obtaining my Bachelor's Degree in Communication & Social Interaction in Central NY. I plan to visit states like Arizona, Texas, and California soon. Later on, I'd love to check out countries like Portugal, Sweden, and Romania.
 
-:iphone: Socials :iphone:
-
-<a href=”https://www.linkedin.com/in/jacob-starowicz/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
-
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
