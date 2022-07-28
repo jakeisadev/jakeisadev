@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jakeisadev
+<header style="font-size:36px;">👋 Hi, I’m @jakeisadev</header>
 
 :mortar_board: I am Jacob Starowicz, a Front End Web Developer looking to eventually become a Full Stack developer specializing in MERN. I am also pursuing a Front End Web Development Tech Degree from Team Treehouse to solidify my knowledge of the foundational languages HTML, CSS, and Javascript.
 
