@@ -1,7 +1,3 @@
-<img src="downloads/jacob.png"
-   alt="Short Image Description"
-   style="float: left; margin-right: 10px;" 
-   /> 
 
 <h1>👋 Great to meet you! I’m @jakeisadev</h1><br>
 
