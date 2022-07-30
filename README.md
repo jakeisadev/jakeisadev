@@ -1,6 +1,6 @@
 <h1>👋 Great to meet you! I’m @jakeisadev</h1><br>
 
-:mortar_board: I am Jacob Starowicz, a Front End Web Developer looking to eventually become a Full Stack developer specializing in MERN. I am also pursuing a Front End Web Development Tech Degree from Team Treehouse to solidify my knowledge of the foundational languages HTML, CSS, and Javascript.
+:mortar_board: I'm Jacob Starowicz, a Front End Web Developer looking to eventually become a Full Stack developer specializing in MERN. I am also pursuing a Front End Web Development Tech Degree from Team Treehouse to solidify my knowledge of the foundational languages HTML, CSS, and Javascript.
 
 :man_technologist: I am really enthusiastic about learning new technology, I often enjoy tossing on some deep house music and just building projects. I have a YouTube channel with over 400 subscribers where I motivate and teach others how to navigate the Self-Taught Web Developer journey, as well as run a Discord server to interact with my subscribers to either shoot the breeze or personally advise them throughout their journey.
 
