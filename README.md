@@ -1,9 +1,6 @@
-img[src$="centerme"] {
-  display:block;
-  margin: 0 auto;
-}
-
-<img align="center" src="https://github.com/jakeisadev/jakeisadev/blob/main/Jacob.png" alt="banner that says Jacob Starowicz - Front End Web Developer">
+<p align="center" width="100%">
+    <img width="33%" src="[https://i.stack.imgur.com/RJj4x.png](https://github.com/jakeisadev/jakeisadev/blob/main/Jacob.png)" alt="banner that says Jacob Starowicz - Front End Web Developer">
+</p>
 
 <h1>👋 Great to meet you! I’m @jakeisadev</h1><br>
 
