@@ -1,3 +1,4 @@
+<img src="https://github.com/jakeisadev/jakeisadev/blob/master/jacob.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
 
 <h1>👋 Great to meet you! I’m @jakeisadev</h1><br>
 
