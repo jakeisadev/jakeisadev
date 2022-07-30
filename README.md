@@ -1,5 +1,4 @@
-<img src="https://github.com/jakeisadev/jakeisadev/blob/master/jacob.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
-
+<https://github.com/jakeisadev/jakeisadev/blob/main/Jacob.png
 <h1>👋 Great to meet you! I’m @jakeisadev</h1><br>
 
 :mortar_board: I'm Jacob Starowicz, a Front End Web Developer looking to eventually become a Full Stack developer specializing in MERN by the end of 2023. I am also pursuing a Front End Web Development Tech Degree from Team Treehouse to solidify my knowledge of the foundational languages HTML, CSS, and Javascript.
