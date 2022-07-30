@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m @jakeisadev</h1><br>
+<h1>👋 Great to meet you! I’m @jakeisadev</h1><br>
 
 :mortar_board: I am Jacob Starowicz, a Front End Web Developer looking to eventually become a Full Stack developer specializing in MERN. I am also pursuing a Front End Web Development Tech Degree from Team Treehouse to solidify my knowledge of the foundational languages HTML, CSS, and Javascript.
 
@@ -10,7 +10,7 @@
 
 :earth_asia: I love traveling too. I moved to NC solo immediately after obtaining my Bachelor's Degree in Communication & Social Interaction in Central NY. I plan to visit states like Arizona, Texas, and California soon. Later on, I'd love to check out countries like Portugal, Sweden, and Romania.
 
-## 🧰 Languages and Tools:
+## 🧰 <h2>Languages and Tools</h2>:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
