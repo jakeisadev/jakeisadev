@@ -1,4 +1,4 @@
-<img src="https://github.com/jakeisadev/jakeisadev/blob/main/Jacob.png" alt="banner that says Jacob Starowicz - Front End Web Developer" style="text-align: center;">
+<img align="center" src="https://github.com/jakeisadev/jakeisadev/blob/main/Jacob.png" alt="banner that says Jacob Starowicz - Front End Web Developer">
 
 <h1>👋 Great to meet you! I’m @jakeisadev</h1><br>
 
