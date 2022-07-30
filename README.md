@@ -1,4 +1,4 @@
-<img src="jacob.png"
+<img src="downloads/jacob.png"
    alt="Short Image Description"
    style="float: left; margin-right: 10px;" 
    /> 
