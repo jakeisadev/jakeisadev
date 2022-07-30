@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="50%" src="https://github.com/jakeisadev/jakeisadev/blob/main/Jacob.png" alt="banner that says Jacob Starowicz - Front End Web Developer">
+    <img width="75%" src="https://github.com/jakeisadev/jakeisadev/blob/main/Jacob.png" alt="banner that says Jacob Starowicz - Front End Web Developer">
 </p>
 
 <h1>👋 Great to meet you! I’m @jakeisadev</h1><br>
