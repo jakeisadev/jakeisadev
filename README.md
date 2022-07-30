@@ -1,3 +1,8 @@
+img[src$="centerme"] {
+  display:block;
+  margin: 0 auto;
+}
+
 <img align="center" src="https://github.com/jakeisadev/jakeisadev/blob/main/Jacob.png" alt="banner that says Jacob Starowicz - Front End Web Developer">
 
 <h1>👋 Great to meet you! I’m @jakeisadev</h1><br>
