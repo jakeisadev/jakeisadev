@@ -4,7 +4,7 @@
 
 <h1>👋 Great to meet you! I’m @jakeisadev</h1><br>
 
-:mortar_board: I'm Jacob Starowicz, a Front End Web Developer looking to become a Lead or Senior Front End Engineer by the end of 2023. I have completed an accredited Techdegree from Team Treehouse that has solidified my knowledge of foundational concepts in HTML, CSS, and JavaScript. I've also attained multiple certifications in JavaScript in general to become more adept with the language since it's so crucial to web development. To add, I also work with various other technologies to meet the demands of the trade.
+:mortar_board: I'm Jacob Starowicz, a Front End Web Developer looking to enter the Software development space by the beginning of 2023. My short-term career goal is to be a lead or senior developer by the end of 2024. I have completed an accredited Techdegree from Team Treehouse that has solidified my knowledge of foundational concepts in HTML, CSS, and JavaScript. I've also attained multiple certifications in JavaScript in general to become more adept with the language since it's so crucial to web development. To add, I also work with various other technologies to meet the demands of the trade such as Bootstrap, Sass, and React.
 
 :man_technologist: I'm really enthusiastic about learning new technology, I often enjoy tossing on some deep house music and just building projects. I have a YouTube channel with over 500 subscribers where I motivate and teach others how to navigate the Self-Taught Web Developer journey, as well as run a Discord server to interact with my subscribers to either shoot the breeze or personally advise them throughout their journey.
 
