@@ -1,6 +1,6 @@
 
 
-<p>Front End Web Developer</p>
+<p>Network and Security expert</p>
 
 <!---
 jakeisadev/jakeisadev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
